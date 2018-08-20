@@ -1,0 +1,7 @@
+body {
+    font-size: 12px!Important;
+}
+
+.chat .chat-history .message {
+    padding: 10px 35px!Important;
+}

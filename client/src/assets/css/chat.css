@@ -1,0 +1,14 @@
+/* body {
+    background: url('../img/pexels-photo-1111368.jpeg') no-repeat center;
+} */
+
+/* .form-control {
+    padding: .975rem .75rem;
+} */
+
+.typing{
+    position: relative;
+    bottom: 35px;
+    left: 40px;
+    color: #9b9b9b;
+}

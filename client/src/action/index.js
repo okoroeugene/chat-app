@@ -1,0 +1,11 @@
+
+export const NEW_PHOTO_REQUEST = 'NEW_PHOTO_REQUEST';
+export const NEW_PHOTO_SUCCESS = 'NEW_PHOTO_SUCCESS';
+export const NEW_PHOTO_FAILURE = 'NEW_PHOTO_FAILURE';
+export const FETCH_PHOTO_START = 'FETCH_PHOTO_START';
+export const FETCH_PHOTO_SUCCESS = 'FETCH_PHOTO_SUCCESS';
+export const FETCH_PHOTO_FAILURE = 'FETCH_PHOTO_FAILURE';
+
+
+
+export const BASE_URL = 'http://localhost:5001';
